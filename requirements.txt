@@ -1,6 +1,5 @@
 altair
 pandas
 streamlit
-pickle
 sklearn
-joblib
+joblib==0.16.0
